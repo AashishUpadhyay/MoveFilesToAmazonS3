@@ -1,0 +1,8 @@
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\MoveFilesToAmazonS3.exe.config
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\MoveFilesToAmazonS3.exe
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\MoveFilesToAmazonS3.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\AWSSDK.dll
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\AWSSDK.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Release\MoveFilesToAmazonS3.exe
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Release\MoveFilesToAmazonS3.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Release\FileSources.xaml

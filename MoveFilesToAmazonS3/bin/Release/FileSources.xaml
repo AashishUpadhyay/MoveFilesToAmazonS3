@@ -1,0 +1,12 @@
+﻿<FileSources xmlns="clr-namespace:MoveFilesToAmazonS3.Entities;assembly=MoveFilesToAmazonS3" xmlns:col="clr-namespace:System.Collections;assembly=mscorlib">
+    <FileSource BucketName="cropintestbucket" S3FolderName="SmartfarmS3Integration" LocalDirectoryName="CropInFileUpload" LocalDirectoryPath="D:\Websites\SmartfarmS3Integration\CropInFileUpload">
+    </FileSource>
+    <FileSource BucketName="cropintestbucket" S3FolderName="SmartfarmS3Integration1" LocalDirectoryName="CropInFileUpload" LocalDirectoryPath="D:\Websites\SmartfarmS3Integration1\CropInFileUpload">
+    </FileSource>
+    <FileSource BucketName="cropintestbucket" S3FolderName="SmartfarmS3Integration2" LocalDirectoryName="CropInFileUpload" LocalDirectoryPath="D:\Websites\SmartfarmS3Integration2\CropInFileUpload">
+    </FileSource>
+    <FileSource BucketName="cropintestbucket" S3FolderName="SmartfarmS3Integration3" LocalDirectoryName="CropInFileUpload" LocalDirectoryPath="D:\Websites\SmartfarmS3Integration3\CropInFileUpload">
+    </FileSource>
+    <FileSource BucketName="cropintestbucket" S3FolderName="SmartfarmS3Integration4" LocalDirectoryName="CropInFileUpload" LocalDirectoryPath="D:\Websites\SmartfarmS3Integration4\CropInFileUpload">
+    </FileSource>
+</FileSources>

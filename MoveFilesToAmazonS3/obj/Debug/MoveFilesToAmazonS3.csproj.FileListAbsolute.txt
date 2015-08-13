@@ -1,0 +1,17 @@
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.exe.config
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Debug\MoveFilesToAmazonS3.csprojResolveAssemblyReference.cache
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\CompanyProfile.xaml
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.exe
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.pdb
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\AWSSDK.dll
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\AWSSDK.pdb
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Debug\MoveFilesToAmazonS3.exe
+c:\users\mr\documents\visual studio 2013\Projects\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Debug\MoveFilesToAmazonS3.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\CompanyProfile.xaml
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.exe.config
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.exe
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\MoveFilesToAmazonS3.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\AWSSDK.dll
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\bin\Debug\AWSSDK.pdb
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Debug\MoveFilesToAmazonS3.exe
+D:\Aashish Upadhyay Personal\Development\Configuration Setup\Batch Applications\MoveFilesToAmazonS3\MoveFilesToAmazonS3\obj\Debug\MoveFilesToAmazonS3.pdb

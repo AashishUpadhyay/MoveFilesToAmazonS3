@@ -1,0 +1,4 @@
+﻿<CompanyFileSources xmlns="clr-namespace:MoveFilesToAmazonS3.Entities;assembly=MoveFilesToAmazonS3" xmlns:col="clr-namespace:System.Collections;assembly=mscorlib">
+    <CompanyFileSource CompanyBucketName="cropintestbucket" CompanyName="SmartfarmS3Integration" DirectoryName="CropInFileUpload" DirectoryPath="D:\Websites\SmartfarmS3Integration\CropInFileUpload">
+    </CompanyFileSource>
+</CompanyFileSources>
